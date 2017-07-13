@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="str1">Add Words to search:</string>
+    <string name="str2">Match cases</string>
+    <string name="search">Search</string>
+    <string name="freq">Word frequencies:</string>
+    <string name="finish">Finish</string>
+</resources>
